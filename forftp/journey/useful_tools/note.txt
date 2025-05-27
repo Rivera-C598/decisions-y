@@ -1,0 +1,1 @@
+run tools using python3, if tools are outdated, will lead to smb share instead.

@@ -1,0 +1,15 @@
+[*] Cisco C2 Server v0.4
+[+] Session started: 2025-03-28 01:45AM
+
+[+] New connection: DESKTOP-GGVZMNT (172.2.142.108)
+    -> payload: keylogger_payload.py
+    -> output: saved to 3_keystrokes.log
+
+[+] USB beacon: BANK-LAB-03 (144.35.52.95)
+    -> payload: autorun_shell_dropper.py
+    -> shell spawned at 144.35.52.95:4444
+
+[+] Note: still no hit on USB #9. Possibly destroyed or stolen.
+[!] Reminder: encrypt logs before syncing to fallback server.
+
+[*] Session paused.

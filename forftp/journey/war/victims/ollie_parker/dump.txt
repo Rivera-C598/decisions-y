@@ -1,0 +1,69 @@
+Got into his machine via flashdrive drop #6(fake_bitcoin_account).
+Initial foothold through autorun_shell_dropper.py.
+
+Went deeper thinking he was a nexabank employee, but I was wrong.
+Was actually a student, and an intern web developer at TechFort solutions.
+We have the same struggles, high student debt from nexabank, REGRET. I called off my attack. 
+
+Still, interesting system structure. SMB credentials were just like mine. 
+his SMB username is ollie_ftp, and mine is francisco_smb
+Same format. No imagination. lol
+
+Interesting things/sms intercepted
+[March 5, 2025]
+Bank: “You have a pending loan consolidation request. Visit portal for status.”
+
+[April 8, 2025]
+OTP: 098321 (Bank OTP)
+"Your account balance is now ₱65.20"
+
+[April 11, 2025]
+Bank: “You have a pending loan consolidation request. Visit portal for status.”
+
+[April 12, 2025]
+Ollie: “Mom I feel like im about to get fired, Im in grave trouble”
+Mom: “Why what happened?”
+Ollie: “Im scared mom, please help.”
+[redacted]
+
+[April 16, 2025]
+Bank: “You have a pending loan consolidation request. Visit portal for status.”
+
+[April 17, 2025]
+Bank: “You have a pending loan consolidation request. Visit portal for status.”
+///////////////////////////////////////////////////////////////////////////////
+────────────────────────────────────────────
+TechFort Solutions • Internal Affairs Division
+────────────────────────────────────────────
+
+Date: April 18, 2025  
+To: All Concerned Parties  
+Subject: Closure of Case ID #TF-APR16-OP
+
+After a full internal review and with the assistance of Oursafe cybersecurity team and forensic advisors, TechFort Solutions has officially cleared Mr. Oliver Parker of all accusations pertaining to:
+  • Breach of data security protocols  
+  • Negligence in handling sensitive company hardware  
+  • Unauthorized third-party software installations
+
+The investigation was re-opened following the emergence of new digital evidence provided by Oursafe task force during a simulated security audit.
+
+Key findings:
+- Mr. Parker was unknowingly targeted by an external USB-based payload (origin: UNKNOWN).
+- No signs of intentional tampering or complicity were found.
+- The breach attempt was halted and neutralized shortly after internal monitoring detected unusual activity.
+
+As of this notice:
+✔ All internal charges have been dropped.  
+✔ Mr. Parker has been fully reinstated as a Junior Web Developer, with a temporary advisory role pending review.  
+✔ A joint task team has been formed to pursue leads regarding the real perpetrator(s).
+
+Mr. Parker will be subject to a debriefing and will assist in documenting the incident as part of our training simulations for future awareness campaigns.
+
+We extend our appreciation to Oursafe cybersecurity redteam taskforce who exposed the truth and helped clear a name unfairly caught in the crossfire.
+
+– Internal Affairs  
+TechFort Solutions  
+
+// someone stopeed my tracks.. a team from oursafe cyberscurity huh.. theyre pretty good..
+but Im glad, still cant catch me though lol
+

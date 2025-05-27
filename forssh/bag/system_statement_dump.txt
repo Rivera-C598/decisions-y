@@ -1,0 +1,8 @@
+SELECT * FROM student_debt WHERE client_id = 'NXB-076231';
+
+| id         | name             | client_id  | original_loan | current_balance | hidden_fees |
+|------------|------------------|------------|----------------|------------------|--------------|
+| 1019023    | Francisco Shaw   | NXB-076231 | ₱50,000.00     | ₱120,783.74      | ₱34,560.00   |
+
+Note: Automated Fee Injection Active on Account
+Flagged by: sys_auto_update_fees.sh

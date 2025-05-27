@@ -1,0 +1,15 @@
+NEXABANK - OFFICIAL LOAN RECEIPT
+----------------------------------------------
+Client Name: FRANCISCO SHAW
+Client ID: NXB-076231
+Date Issued: 2023-06-12
+Loan Type: Student Loan
+Loan Amount: ₱50,000.00
+Interest Rate: 7.5% annually
+Repayment Start Date: 2024-06-12
+Monthly Payment: ₱1,000.00
+Terms: 60 months
+
+Thank you for choosing NexaBank.
+Helping you shape a better future.
+----------------------------------------------
